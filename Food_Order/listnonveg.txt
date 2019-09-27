@@ -1,0 +1,6 @@
+Chicken_Burger 120
+Buff_Momo 80
+Buff_Chomein 100
+Susage_Pizza 120
+Tandoori 200
+

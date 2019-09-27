@@ -1,0 +1,5 @@
+Veg_Burger 80
+Cheese_Burger 100
+Veg_Chomein 80
+Cheese_Pizza 100
+French_Fries 60
