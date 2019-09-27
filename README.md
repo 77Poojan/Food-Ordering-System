@@ -1,2 +1,2 @@
 # Food-Ordering-System
-Food Ordering System sample project using C++ language,
+Food Ordering System sample project using C++ language.
